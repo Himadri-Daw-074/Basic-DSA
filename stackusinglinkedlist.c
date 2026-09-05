@@ -14,7 +14,7 @@ int display();
 
 //Main function
 int main(){
-    int i=0, value, disp;
+    int i, value, disp;
     head=NULL;
     while(1){
         printf("***************** MENU ******************\n");
